@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Data Science @ Compass Lexecon.
+
+MSc DS (UCL), BSc Economics (Nottingham). 
+
+Wants to be good at: Econometrics, NLP, Computer Vision.
+
+Actually good at: ctrl C, ctrl V, Google.
+
 <!--
 **jth500/jth500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
