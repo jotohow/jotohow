@@ -4,7 +4,7 @@ Data Science @ Compass Lexecon.
 
 MSc DS (UCL), BSc Economics (Nottingham). 
 
-Wants to be good at: Econometrics, Bayesian Stats, NLP, Computer Vision. 
+Wants to be good at: Econometrics, Bayesian Stats, NLP. 
 
 Actually good at: ctrl C, ctrl V, Google.
 
