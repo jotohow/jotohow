@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Data & AI @ Econic Partners, LLC.
+Data & AI @ Econic Partners.
 
 MSc DS (UCL), BSc Economics (Nottingham). 
 
