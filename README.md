@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Data Science @ Econic Partners, LLC.
+Data & AI @ Econic Partners, LLC.
 
 MSc DS (UCL), BSc Economics (Nottingham). 
 
