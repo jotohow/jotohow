@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Data Science @ Compass Lexecon.
+Data Science @ Econic Partners, LLC.
 
 MSc DS (UCL), BSc Economics (Nottingham). 
 
